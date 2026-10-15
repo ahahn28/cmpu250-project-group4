@@ -73,3 +73,44 @@ International Baccalaureate Codebook:
     IDEA Male: Number of IDEA Male Students in IB classes
     IDEA Female:  Number of IDEA Female Students in IB classes
 
+
+AP Codebook:
+Variables Provided:
+    State: School's State 
+    District: School District 
+    School: School Name 
+    Combo-key: ID Key 
+    Justice Facility: Yes/No indicator of if the school is a justice facility
+    Selection Indicator: True/False based on if students are allowed to self - enroll in AP courses at that school
+    Hispanic Male: Number of Hispanic Male Students in AP classes
+    Native American Male: Number of Native American Male Students in AP classes
+    Native American Female: Number of Native American Female Students in AP classes
+    Asian Male: Number of Asian Male Students in AP classes
+    Asian Female: Number of Asian Female Students in AP classes
+    Pacific Islander Male: Number of Native Hawaiian/Pacific Islander Male Students in AP classes
+    Pacific Islander Female : Number of Native Hawaiian/Pacific Islander Female Students in AP classes
+    Black Male: Number of Black Male Students in AP classes
+    Black Female: Number of Black Female Students in AP classes
+    White Male: Number of White Male Students in AP classes 
+    White Female: Number of White Female Students in AP classes
+    Two or more races Male: Number of Male Students identifying as two or more races in AP classes
+    Two or more races Female: Number of Female Students identifying as two or more races in AP classes
+    EL Male: Number of EL Male Students in AP classes
+    EL Female: Number of EL Female Students in AP classes
+    IDEA Male: Number of IDEA Male Students in AP classes
+    IDEA Female: Number of IDEA Female Students in AP classes
+    504 Male: Number of 504 Male Students in AP classes
+    504 Female: Number of 504 Female Students in AP classes
+
+Variables we added:
+    Total: Total number of Students in AP classes
+    Total White: Total Number of White Students in AP classes
+    Total Nonwhite: Total Number of Non-white Students in AP classes
+    Total EL: Total Number of EL Students in AP classes
+    Total IDEA: Total Number of IDEA Students in AP classes
+    IDEA Male: Number of IDEA Male Students in AP classes
+    IDEA Female:  Number of IDEA Female Students in AP classes
+    Total 504: Total number of 504 students in AP classes
+    Total Disability: Total number of IDEA and 504 students in AP classes
+
+
